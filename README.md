@@ -3,7 +3,9 @@
 
 
 how to use?
+
 - enter the question number
 - enter/paste the code
 - click on the button
-- open the console from developer tools and paste
+- open the console from developer tools
+- paste and hit enter
