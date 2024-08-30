@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "~(Could Not Paste)",
+    "version": "1.0",
+    "description": "Generates code for pasting in the console",
+    "permissions": ["clipboardWrite"],
+    "icons": {
+      "48": "icon.png"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
